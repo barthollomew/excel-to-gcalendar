@@ -17,7 +17,7 @@ To use this project, you will need the following:
 
 1. Clone the project repository:
 
-   `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+   `https://github.com/barthollomew/excel-to-gcalendar`
 
 2. Install the required Python packages:
 
