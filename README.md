@@ -1,10 +1,6 @@
 # Excel to Google Calendar 🗓️
 
-Automate Adding Rosters from Excel Spreadsheets to Google Calendar! 🚀
-
-# Description 📄
-
-This project provides a way for employees to easily add their rosters from Excel spreadsheets to their Google Calendar. The script reads data from the Excel file, extracts event details using regular expressions, and creates a new event in the user's calendar using the Google Calendar API. The script also handles errors and prints informative messages to the user.
+Provides a way for employees to easily add their rosters from Excel spreadsheets to their Google Calendar. The script reads data from the Excel file, extracts event details using regular expressions, and creates a new event in the user's calendar using the Google Calendar API. The script also handles errors and prints informative messages to the user.
 
 # Getting Started 🚀
 
